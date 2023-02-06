@@ -1,0 +1,35 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-module-flags: -target arm64-apple-ios15.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SociomileSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Combine
+import Flutter
+import FlutterPluginRegistrant
+import Foundation
+@_exported import SociomileSDK
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+public class FlutterDependencies : Foundation.ObservableObject {
+  public init()
+  public func sociomileActivity()
+  public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
+  @objc deinit
+}
+public class Sociomile {
+  public init(bgColorSender: Swift.Int?, bgColorOwner: Swift.Int?, colorThemeDefault: Swift.Int?, colorBtnSend: Swift.Int?, colorIconDefault: Swift.Int?, lblColorMsgSender: Swift.Int?, lblColorMsgOwner: Swift.Int?, lblColorThemeDefault: Swift.Int?, fontFromNative: Swift.String?, clientKey: Swift.String?, clientId: Swift.String?, userId: Swift.String?, userName: Swift.String?, fcmToken: Swift.String?)
+  public func runSociomileEngine(flutterDependency: SociomileSDK.FlutterDependencies)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class SocioDataModel : Foundation.ObservableObject {
+  public func notification(_ data: Foundation.NSDictionary)
+  public func fcmToken(_ data: Swift.String)
+  public func getToken() -> Swift.String
+  public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
+  @objc deinit
+}
+extension SociomileSDK.SocioDataModel {
+  public static let shared: SociomileSDK.SocioDataModel
+  public static func mockModel() -> SociomileSDK.SocioDataModel
+}
