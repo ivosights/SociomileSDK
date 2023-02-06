@@ -1,1 +1,3 @@
-# sociomile-sdk-ios
+# SociomileSDK
+
+A description of this package.
