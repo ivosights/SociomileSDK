@@ -25,9 +25,9 @@ let package = Package(
           name: "SociomileSDK",
           path: "./Sources/SociomileSDK.xcframework"
         ),
-        .target(
-            name: "SociomileSDK",
-            dependencies: []),
+//        .target(
+//            name: "SociomileSDK",
+//            dependencies: []),
         .testTarget(
             name: "SociomileSDKTests",
             dependencies: ["SociomileSDK"]),
