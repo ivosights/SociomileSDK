@@ -28,17 +28,17 @@ let package = Package(
         .binaryTarget(
           name: "App",
           url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/0.0.1/App.xcframework.zip",
-          checksum: "786c03b25195ab44823691822a84218a517e5afe32251353d70da1975733a9e3"
+          checksum: "093bd6d03d078246bebc4edf63c03e43fd6d85f55a2e89a7bf3424a7ee0ae92e"
         ),
         .binaryTarget(
           name: "Flutter",
           url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/0.0.1/Flutter.xcframework.zip",
-          checksum: "2533eb6f14c3f979d45ece6c356e06c91d771a804b0039083caebd2e8691a563"
+          checksum: "305ab8f004f8891222524961fd2ae5b970890f5d8d60b598b480075cd00f8170"
         ),
         .binaryTarget(
           name: "FlutterPluginRegistrant",
           url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/0.0.1/FlutterPluginRegistrant.xcframework.zip",
-          checksum: "0688f45240b2034e137464e39a70e38de58d5fe759cb85c1ad4a4949f0e8d489"
+          checksum: "07d1ae014fb48eeed9d99fa4a940826598a8be8741cf11717795e0a80faa11bf"
         ),
 //        .target(
 //            name: "SociomileSDK",
