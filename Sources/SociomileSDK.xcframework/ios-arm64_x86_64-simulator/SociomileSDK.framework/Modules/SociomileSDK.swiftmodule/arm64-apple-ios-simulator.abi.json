@@ -146,7 +146,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(bgColorSender:bgColorOwner:colorThemeDefault:colorBtnSend:colorIconDefault:lblColorMsgSender:lblColorMsgOwner:lblColorThemeDefault:fontFromNative:clientKey:clientId:userId:userName:fcmToken:)",
+            "printedName": "init(bgColorSender:bgColorOwner:colorThemeDefault:colorBtnSend:colorIconDefault:lblColorMsgSender:lblColorMsgOwner:lblColorThemeDefault:fontFromNative:clientKey:clientId:userId:userName:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -166,6 +166,7 @@
                     "usr": "s:Si"
                   }
                 ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               },
               {
@@ -180,6 +181,7 @@
                     "usr": "s:Si"
                   }
                 ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               },
               {
@@ -194,6 +196,7 @@
                     "usr": "s:Si"
                   }
                 ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               },
               {
@@ -208,6 +211,7 @@
                     "usr": "s:Si"
                   }
                 ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               },
               {
@@ -222,6 +226,7 @@
                     "usr": "s:Si"
                   }
                 ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               },
               {
@@ -236,6 +241,7 @@
                     "usr": "s:Si"
                   }
                 ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               },
               {
@@ -250,6 +256,7 @@
                     "usr": "s:Si"
                   }
                 ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               },
               {
@@ -264,6 +271,7 @@
                     "usr": "s:Si"
                   }
                 ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               },
               {
@@ -278,20 +286,7 @@
                     "usr": "s:SS"
                   }
                 ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               },
               {
@@ -352,8 +347,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:12SociomileSDK0A0C13bgColorSender0cD5Owner17colorThemeDefault0G7BtnSend0g4IconI003lbld3MsgE00mdnF00mdhI014fontFromNative9clientKey0R2Id04userT00U4Name8fcmTokenACSiSg_A7RSSSgA5Stcfc",
-            "mangledName": "$s12SociomileSDK0A0C13bgColorSender0cD5Owner17colorThemeDefault0G7BtnSend0g4IconI003lbld3MsgE00mdnF00mdhI014fontFromNative9clientKey0R2Id04userT00U4Name8fcmTokenACSiSg_A7RSSSgA5Stcfc",
+            "usr": "s:12SociomileSDK0A0C13bgColorSender0cD5Owner17colorThemeDefault0G7BtnSend0g4IconI003lbld3MsgE00mdnF00mdhI014fontFromNative9clientKey0R2Id04userT00U4NameACSiSg_A7QSSSgA4Rtcfc",
+            "mangledName": "$s12SociomileSDK0A0C13bgColorSender0cD5Owner17colorThemeDefault0G7BtnSend0g4IconI003lbld3MsgE00mdnF00mdhI014fontFromNative9clientKey0R2Id04userT00U4NameACSiSg_A7QSSSgA4Rtcfc",
             "moduleName": "SociomileSDK",
             "declAttributes": [
               "AccessControl"
@@ -623,14 +618,77 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/aprikot\/Projects\/SociomileSDK\/SociomileSDK\/SociomileActivity.swift",
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/SociomileActivity.swift",
       "kind": "StringLiteral",
       "offset": 272,
       "length": 26,
       "value": "\"sociomile_flutter_engine\""
     },
     {
-      "filePath": "\/Users\/aprikot\/Projects\/SociomileSDK\/SociomileSDK\/NotificationEventChannel.swift",
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 582,
+      "length": 10,
+      "value": "0xFFBDB2CF"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 615,
+      "length": 10,
+      "value": "0xFF873891"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 653,
+      "length": 10,
+      "value": "0xFF0C3DE0"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 686,
+      "length": 10,
+      "value": "0xFF873891"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 723,
+      "length": 10,
+      "value": "0xFF873891"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 761,
+      "length": 10,
+      "value": "0xFF000000"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 798,
+      "length": 10,
+      "value": "0xFFFFFFFF"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 839,
+      "length": 10,
+      "value": "0xFFFFFFFF"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "StringLiteral",
+      "offset": 877,
+      "length": 6,
+      "value": "\"Lato\""
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/NotificationEventChannel.swift",
       "kind": "StringLiteral",
       "offset": 296,
       "length": 2,
