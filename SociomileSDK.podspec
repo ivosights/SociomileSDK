@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "13.0"
 
   spec.source       = { :git => "https://github.com/ivosights/SociomileSDK.git", :tag => "#{spec.version}" }
-  spec.ios.vendored_frameworks = "SociomileSDK.xcframework"
+  spec.vendored_frameworks = 'Sources/SociomileSDK.xcframework'
   spec.swift_versions = "5.0"
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
