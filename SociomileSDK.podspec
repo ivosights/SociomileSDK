@@ -20,21 +20,11 @@ Pod::Spec.new do |spec|
 
   spec.swift_versions = "5.0"
 
-  spec.default_subspecs = 'Chat', 'Code', 'Engine', 'Plugin', 'connectivity', 'image_picker', 'gallery', 'file_picker','secure_storage', 'FMDB', 'provider', 'Reachability','SDWebImage', 'sqflite', 'SwiftyGif', 'url_launcher'
+  spec.default_subspecs = 'Chat', 'Plugin', 'connectivity', 'image_picker', 'gallery', 'file_picker','secure_storage', 'FMDB', 'provider', 'Reachability','SDWebImage', 'sqflite', 'SwiftyGif', 'url_launcher'
 
   spec.subspec 'Chat' do |ss|
     ss.vendored_frameworks = 'Sources/SociomileSDK.xcframework'
     ss.preserve_paths = 'Sources/SociomileSDK.xcframework'
-  end
-
-  spec.subspec 'Code' do |ss|
-    ss.vendored_frameworks = 'Sources/App.xcframework'
-    ss.preserve_paths = 'Sources/App.xcframework'
-  end
-
-  spec.subspec 'Engine' do |ss|
-    ss.vendored_frameworks = 'Sources/Flutter.xcframework'
-    ss.preserve_paths = 'Sources/Flutter.xcframework'
   end
 
   spec.subspec 'Plugin' do |ss|
