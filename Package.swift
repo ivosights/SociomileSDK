@@ -23,7 +23,9 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
           name: "SociomileSDK",
-          path: "./Sources/SociomileSDK.xcframework"
+          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.1/SociomileSDK.xcframework.zip",
+          checksum: "77815835832a67c7340c976f75d720207cba2243df97bbb88e8de265f406e046"
+//          path: "./Sources/SociomileSDK.xcframework"
         ),
         .binaryTarget(
           name: "App",
