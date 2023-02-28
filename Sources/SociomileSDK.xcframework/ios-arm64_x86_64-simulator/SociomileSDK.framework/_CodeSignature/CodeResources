@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		4Lw+zgbvG1i6v+F8MmA/IbbBr14=
+		svSPKgcTLh7o5s6QSsOEIxo5KjA=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		ptU8Pv/qX3ssq39DRX6/gnRPEyI=
+		13qFwWUVZVC3MSflQkopz5JT30c=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		36fqQJ7TORBgD3XifZfGcgd5nq8=
+		lGq/OluA/Hd0zNRRAl3Gfshuk3k=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/fonts/HelveticaNeue-Bold.ttf</key>
 		<data>
@@ -190,7 +190,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
-		gIKZ55vEePKLhRX+i7cfVlMch+g=
+		tJnAGh1q0TDfm4ReZ+Q7gzQAFy0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -198,11 +198,11 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
-		w692rJaPHe8bDoxLnJQtqvOn24s=
+		Z/DhfUUahgFGsthszkW1YubfdU8=
 		</data>
 		<key>Frameworks/DKImagePickerController.framework/DKImagePickerController</key>
 		<data>
-		rb6g2H6Vnr1lXGip310Mv6uKjrM=
+		EuVNPe1gFIXuyo8dSb9cjzGKG1M=
 		</data>
 		<key>Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/Assets.car</key>
 		<data>
@@ -402,7 +402,7 @@
 		</data>
 		<key>Frameworks/DKPhotoGallery.framework/DKPhotoGallery</key>
 		<data>
-		FsZJysbmzk0oYl6ANpN8VQSMLmQ=
+		cFLPAGg3HHnOVropffE4BFs8T4A=
 		</data>
 		<key>Frameworks/DKPhotoGallery.framework/DKPhotoGallery.bundle/Assets.car</key>
 		<data>
@@ -449,7 +449,7 @@
 		</data>
 		<key>Frameworks/FMDB.framework/FMDB</key>
 		<data>
-		R7h+vcP2TYq8y5CV4IdPK2uZe+Q=
+		zwzZej5I0ApNfuLesJGlwVXO748=
 		</data>
 		<key>Frameworks/FMDB.framework/Info.plist</key>
 		<data>
@@ -461,23 +461,23 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		IWwzlOY5XkzzrPhOQ43cdOuee8I=
+		NaeXiOG57pa9ja0K83nIf5pelPs=
 		</data>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<data>
-		PsHnnI6L5PuVuEYWoOjT4R5ntlw=
+		DMbjJNrofHzIXva7tK3qv91vz14=
 		</data>
 		<key>Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
 		<data>
-		k6j5z/up1eRVdwZuLVmSPXACLUc=
+		pUu8MKwgLwCiORvZVrWxRvfQvG0=
 		</data>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<data>
-		q5acp6rOkQ+ckG1e10c6ecrMr8U=
+		iqxdhxDOeG6GKBcMhgGCL00SLGw=
 		</data>
 		<key>Frameworks/FlutterPluginRegistrant.framework/FlutterPluginRegistrant</key>
 		<data>
-		7RFsmhpXmAkh+POs0zNcWXH1fgY=
+		pm0jPlEvLWl6XDJNbJ5Ry+8EN+M=
 		</data>
 		<key>Frameworks/FlutterPluginRegistrant.framework/Info.plist</key>
 		<data>
@@ -485,7 +485,7 @@
 		</data>
 		<key>Frameworks/FlutterPluginRegistrant.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		zEY7KjU0fYohm2h9+l3MBYlzRpM=
+		1j9IPpZ02T7upkZ1caSsa7XlFPI=
 		</data>
 		<key>Frameworks/FlutterPluginRegistrant.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -493,7 +493,7 @@
 		</data>
 		<key>Frameworks/FlutterPluginRegistrant.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		kp1dGWcwkqh8PKBk0j9mXdUxCT4=
+		DY7Ada3aMwQ6bdrO+Pha0N7b1Tw=
 		</data>
 		<key>Frameworks/FlutterPluginRegistrant.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -509,7 +509,7 @@
 		</data>
 		<key>Frameworks/Reachability.framework/Reachability</key>
 		<data>
-		/EwaD+jEvhBvwMLK9ep+U4+hcUA=
+		pbUiCg6pkO1HsCJCXvm/1SCIaVY=
 		</data>
 		<key>Frameworks/Reachability.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -517,15 +517,15 @@
 		</data>
 		<key>Frameworks/SDWebImage.framework/Info.plist</key>
 		<data>
-		f4OgM0irYI1eTfDfQdEY0JzbCvM=
+		7sxnE2FNH8V9G9JXRpzyI9FbtQk=
 		</data>
 		<key>Frameworks/SDWebImage.framework/SDWebImage</key>
 		<data>
-		Ncsfx/PHZjsLhLP+E3zhWYCXdL4=
+		iwneSAyIrVTEE6lntZRqSrI3SfE=
 		</data>
 		<key>Frameworks/SDWebImage.framework/_CodeSignature/CodeResources</key>
 		<data>
-		FiL8odurR97rJOaKzuwR6ysxPDM=
+		PxQYkhNc59/gh4G5OBZJ0ebSA+w=
 		</data>
 		<key>Frameworks/SwiftyGif.framework/Info.plist</key>
 		<data>
@@ -533,7 +533,7 @@
 		</data>
 		<key>Frameworks/SwiftyGif.framework/SwiftyGif</key>
 		<data>
-		szF6Vn7veb0MwlhN0ALKQJ3DQRs=
+		k3Gw/Bih/m9idP2SF242RRWu0Co=
 		</data>
 		<key>Frameworks/SwiftyGif.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -549,7 +549,7 @@
 		</data>
 		<key>Frameworks/connectivity_plus.framework/connectivity_plus</key>
 		<data>
-		a4FiGNLAG8pKH3TVbtbUDkoLIUk=
+		Eoo2U6sApoFResSTMt6XVFydz2g=
 		</data>
 		<key>Frameworks/file_picker.framework/Info.plist</key>
 		<data>
@@ -561,7 +561,7 @@
 		</data>
 		<key>Frameworks/file_picker.framework/file_picker</key>
 		<data>
-		vvhExUbCpvjzPcA+OkY19nH8rNA=
+		ld0JGzPjADMrjakHaNr2kvtNKrs=
 		</data>
 		<key>Frameworks/flutter_secure_storage.framework/Info.plist</key>
 		<data>
@@ -573,7 +573,7 @@
 		</data>
 		<key>Frameworks/flutter_secure_storage.framework/flutter_secure_storage</key>
 		<data>
-		dRxzfx/Jp5GP69YEBH5P2k9RoLo=
+		K5RrOu8gQqR/Rqm0QCOiGTeAQnI=
 		</data>
 		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
 		<data>
@@ -585,7 +585,7 @@
 		</data>
 		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
 		<data>
-		X/pT/wWj5mjEFCq0DvbmCO+5tQ0=
+		a2uLuXnP8ND60GBaCnfLzSCPD3I=
 		</data>
 		<key>Frameworks/sqflite.framework/Info.plist</key>
 		<data>
@@ -597,7 +597,7 @@
 		</data>
 		<key>Frameworks/sqflite.framework/sqflite</key>
 		<data>
-		4byhhYnKRhv/gkk++m7/CVGw1/w=
+		P5iRIlZ5O3HkL2J4Kwi6ty9D8wQ=
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/Info.plist</key>
 		<data>
@@ -609,7 +609,7 @@
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios</key>
 		<data>
-		DtdcNiDfOy7joJAYuMyIs/CjJ5c=
+		zyU+tYO53Otjhs/xTG4I3M+TWSI=
 		</data>
 		<key>Headers/SociomileSDK-Swift.h</key>
 		<data>
@@ -625,43 +625,43 @@
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		v+nAnadk1xmwFiG0SI09JIGQILU=
+		ArebfHzVg/aufRGZmXGEpqDaR3M=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		CyvgYxhfk5Bba/Ko9xN5A20yRjs=
+		oIyCYmsR1rUnOB2i+1kVP+iUbX0=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		SXEl7XExog7s6H/bFY2D4DqlaZM=
+		gJhLu5fnsrdRYUOGg3Aub8hIssM=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		CyvgYxhfk5Bba/Ko9xN5A20yRjs=
+		oIyCYmsR1rUnOB2i+1kVP+iUbX0=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZIMp1/mpbnmvsexPom1j4DV6EVQ=
+		7zdgBepFa+dYFaDZuxpCIDfcztw=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		v+nAnadk1xmwFiG0SI09JIGQILU=
+		ArebfHzVg/aufRGZmXGEpqDaR3M=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		0puvonisklD225piSbSP8OjK8Ng=
+		BAMZTkE/3Of8tXDVDoZO3eU5EqE=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		X1j4pn1Y5vCyT6aZDkkbvlQfMbc=
+		wm11tynRtWhUivafEJPedL/05JU=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		0puvonisklD225piSbSP8OjK8Ng=
+		BAMZTkE/3Of8tXDVDoZO3eU5EqE=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+NUyM9ihMcg+eUnfKv+k/tfnwYI=
+		mvND81cQ7MF6uUZAWDUACg0GbNA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -674,7 +674,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KOuKn6NndwHwYWNFsjUtoJRphpu+pVvkEgvTnCLKdi0=
+			W4UFXSXB9jeqvwqWEOrndB3Lk0FZCub3UD+pdRsxK+c=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -688,7 +688,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tKs1cTBhZ3Xh9kFZxJ4fw/kedDQE2oxPNCjGBCH81ok=
+			Ga9EYAQh931W70NbS/OSj1oIOZWyr4089SX2K3r0QnU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -709,7 +709,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pBTGY19f6yMSlPYZu7tRYALhdMYgl/uPcG/1IIPIIm8=
+			td+etuqTZ9vko8NIVZu5FEVqFmC+TBoL3DK5CEW4yz0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/fonts/HelveticaNeue-Bold.ttf</key>
@@ -996,7 +996,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cUgipNRRi6lvCaBRJwZ+MvrvuOjbMtYPaKCutz+4cCs=
+			udeGX1OxED0z6TT5Rt34R2XqLKvxC+8CNab5adcbFf8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -1010,14 +1010,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2fOEq+8CAV0/oFD+zCTcnJQF7DxrFMAyPDsIUyh/dhc=
+			hgGex10sKxTSC95tzLdljzYd3qnntuSb96YXXaU9Nlc=
 			</data>
 		</dict>
 		<key>Frameworks/DKImagePickerController.framework/DKImagePickerController</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xq2Vjxixma++Y9ZJbGEf1CC3bI0rVh3X6NL6EzYCH/k=
+			m3mZf83K0tmDYA0QiAhO16fz7zcSQ/XHxpEkhneUvrU=
 			</data>
 		</dict>
 		<key>Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/Assets.car</key>
@@ -1232,7 +1232,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D9VDAsZurjs0WdmBJTv4kt+A8jZPHcZbwklZB6THwNc=
+			bhbWQqdutiMBj1MT+MtUPzxE+alqJ1GXgM2FlZW7JiA=
 			</data>
 		</dict>
 		<key>Frameworks/DKPhotoGallery.framework/DKPhotoGallery.bundle/Assets.car</key>
@@ -1294,7 +1294,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aELZvDhSz6z9Jp/ch6bNDiTInfpWLuPUwilWPoqIvyA=
+			K1VIwcxMbt3GacBh3F6olfYGj8CJOYkVLjL5tMbKJTM=
 			</data>
 		</dict>
 		<key>Frameworks/FMDB.framework/Info.plist</key>
@@ -1315,35 +1315,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YWkV5dkMv40CDDngctpfDbYCOScoMaBvgnmg5g42Das=
+			JFR2XK2hUwlJc9vG0RHYm8nE4FBYIBUE0yhN/ue8NyU=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wIhcsHkb6hD1nYVqu9525wVupbANroTUvaPbiesQUsk=
+			MlaBGt8ryi4g4c4GJu/HJFzMvxo2Z74mbq2iDphjzqo=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HeFpjtUy52AA59YUQ5//+drd/srr2TLI+nfSzgnLtxM=
+			l1fmqWwG5IKNGFIADgJtX7rnPbqYAOxZelRYzFzvnac=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sA+D9pONLsc1rI+XDHefj/KAY7kac9Ait6lUu4UjHDg=
+			d80FTlJMKYsTn7JmRt/E1O9oOh+k9tF0xR10Q3ZrKn4=
 			</data>
 		</dict>
 		<key>Frameworks/FlutterPluginRegistrant.framework/FlutterPluginRegistrant</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZnBL7Xbh7881PEpJbOkHUciUklcP8LrVykTKnNkIryE=
+			oHeSfdeMeM7RQjc2HeAmWlAyEfWcaSmw72NMxs2azXs=
 			</data>
 		</dict>
 		<key>Frameworks/FlutterPluginRegistrant.framework/Info.plist</key>
@@ -1357,7 +1357,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VfWaGU9zlyYte4+32r/4F8e1uT9aYSKUJkcicEcOKYE=
+			rVM2AbZptFWHjs61zCojbwWpbTViAf5T4YMsnFQJSts=
 			</data>
 		</dict>
 		<key>Frameworks/FlutterPluginRegistrant.framework/_CodeSignature/CodeRequirements</key>
@@ -1371,7 +1371,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IHBt5ZCqQciK8TT+86RUFJ1HaR4DHmNa7V1NTxiRZxs=
+			kJeIWmd+UHZ84cilrgwTlLtDSIIR6H2P+bTWHPPSuuE=
 			</data>
 		</dict>
 		<key>Frameworks/FlutterPluginRegistrant.framework/_CodeSignature/CodeResources</key>
@@ -1399,7 +1399,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KI7sC4vcfP36Q03hVU62mGkCgIzHpi2NGPfBm/z7dD0=
+			FRKfrR8NrGz5d/+fZliM7EvvQffvJxjspk73iJvXgRc=
 			</data>
 		</dict>
 		<key>Frameworks/Reachability.framework/_CodeSignature/CodeResources</key>
@@ -1413,21 +1413,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K1ol6b18UpvEbYpyPKFLAr3+yzhWpGEGPN0tDpjkD4M=
+			ZrOcdpVlKJIERm3zG85WC6N+Wm7mZVOsivl9MujPeP8=
 			</data>
 		</dict>
 		<key>Frameworks/SDWebImage.framework/SDWebImage</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RLwlCR+o0imkwI27RG81OsmQdSPhJaXc2DPk/55b9h4=
+			b1xvAhhCf42WBsdoRx/NxhHH5n55N3yiQj6J93u2/uY=
 			</data>
 		</dict>
 		<key>Frameworks/SDWebImage.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qoMpBAyzxN8KcfOe5knnaSuQgh93ej+0ZHeT5dTCZFU=
+			Vn5qfg7Lw6ULXPmAlY0PyoWshJH+NfKy64NnN8aumqQ=
 			</data>
 		</dict>
 		<key>Frameworks/SwiftyGif.framework/Info.plist</key>
@@ -1441,7 +1441,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qdztxYLtTPk9PuCCbl8ZyDmbz+eJPCWO1hNIjD81Kls=
+			9oQEynwYqPXA/V8ur+vN518s6hE5U7yew5YU+G4KaS8=
 			</data>
 		</dict>
 		<key>Frameworks/SwiftyGif.framework/_CodeSignature/CodeResources</key>
@@ -1469,7 +1469,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UHyAavis7ObtIaqL4bWLrO/pueJLW8G36tm5f2gBeC0=
+			KTc3OLvPXD1++/z4BFC6aw03+8TVyFFplk3ncVgDNhw=
 			</data>
 		</dict>
 		<key>Frameworks/file_picker.framework/Info.plist</key>
@@ -1490,7 +1490,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UgKpHj5YAY3PXiFWHE1qoAGtYMOFx6xlGKJj9HODQRw=
+			4cVmvNcrIHhEeliEKgy/j0o1jgAlgwjFDrvMxtbAmR0=
 			</data>
 		</dict>
 		<key>Frameworks/flutter_secure_storage.framework/Info.plist</key>
@@ -1511,7 +1511,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3ZhotfUgSTSmvzf1WsqBGpQi7vp/uNRKVO2Mb3MsQk8=
+			0gdQAbffC3wSieFqwWQJKQ0fTUOyVtyDPd9N3asYpuE=
 			</data>
 		</dict>
 		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
@@ -1532,7 +1532,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oi1aTxckWjGZqHOb0ySOZ7yVFGg1xs/jFeiDUMegf68=
+			sEFE7TFmrRkj6zInc5K5d555OwiApCTQG5DbQNbaG2U=
 			</data>
 		</dict>
 		<key>Frameworks/sqflite.framework/Info.plist</key>
@@ -1553,7 +1553,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3zVDnIYWa4baNp1eK/oB6JdpUfK/onfIrJR+UHVj7jk=
+			QfIMllNCrM4YcX71tQix9OR4zgFbSo+eK9t/cWqeCeg=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher_ios.framework/Info.plist</key>
@@ -1574,7 +1574,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			np0K3MvilWGmk98I3Xuw2apDfFup/58oDIXlhRUddJE=
+			7+ofIENNO/w0mcm3GR1nf9NvpgZprzF79Dz/tGSVWtE=
 			</data>
 		</dict>
 		<key>Headers/SociomileSDK-Swift.h</key>
@@ -1595,70 +1595,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DkMqsN0t+/dBvskq8VyvN2Dp7qZjhdZYbTtLnMh2oTI=
+			VtKelSsd3uR+PqWLn91IMk/rMf/OFTvkFMhm+UCvNoo=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+eldLMwxQHJrTo2YMpQ7xwt6ktfxiSXA06hzyTXtKpQ=
+			Qcw80L3s67wmdmsYsPYMrX2+e5GEv2qgFCxFUZzHE0k=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KUAoVi6KDqTKU7rkKmr+sP6VGgJwzIed4XhbBm2p2ro=
+			5Jv/Y1JsZU5GrGsoswAmD26bjXI8IdN4tZEsvfKveIU=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+eldLMwxQHJrTo2YMpQ7xwt6ktfxiSXA06hzyTXtKpQ=
+			Qcw80L3s67wmdmsYsPYMrX2+e5GEv2qgFCxFUZzHE0k=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O0cuJ3u1A7OPkMjJLyf5UL2KN5Zqd+VCo1DzGxBPcp8=
+			UAYYbbnQMUAjO9ku1ryC9zhPcG40EgDXskRxDGc/QJ0=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DkMqsN0t+/dBvskq8VyvN2Dp7qZjhdZYbTtLnMh2oTI=
+			VtKelSsd3uR+PqWLn91IMk/rMf/OFTvkFMhm+UCvNoo=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			guX5tFhWPBkHVadkpL9vCW3u4ujfesOvroQwMCcJ3yE=
+			N7+GYid7pdyV06bQAWYev7Er6+MKns10g3+2N1EYAKM=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WoQJx1e3CBne1SNLooFIGfocfW/FXU4EO8Q3LuAgZ5Y=
+			rAioXj59oa0I7H9yd4cGgJfedLZM/jQoC8FUW3aIo84=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			guX5tFhWPBkHVadkpL9vCW3u4ujfesOvroQwMCcJ3yE=
+			N7+GYid7pdyV06bQAWYev7Er6+MKns10g3+2N1EYAKM=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1cq4bRD30vw4kxiZig1AaI/QKj97xpbRaitpc8xkK1g=
+			SE9+axagfKzmZyrxE7tViJbGMFo/yotBI9sek5+Vk20=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

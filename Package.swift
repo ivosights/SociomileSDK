@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "SociomileSDK",
     platforms: [
-      .macOS(.v10_15), .iOS(.v14), .tvOS(.v14)
+      .iOS(.v14), .tvOS(.v14)
     ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
@@ -27,24 +27,24 @@ let package = Package(
         ),
         .binaryTarget(
           name: "App",
-          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/0.0.1/App.xcframework.zip",
-          checksum: "093bd6d03d078246bebc4edf63c03e43fd6d85f55a2e89a7bf3424a7ee0ae92e"
+          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.1/App.xcframework.zip",
+          checksum: "a5c41d1945a07996fbd1a6bb2e42dcfd35f074ce722eabe2d4ec1f3a7c7213db"
         ),
         .binaryTarget(
           name: "Flutter",
-          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/0.0.1/Flutter.xcframework.zip",
-          checksum: "305ab8f004f8891222524961fd2ae5b970890f5d8d60b598b480075cd00f8170"
+          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.1/Flutter.xcframework.zip",
+          checksum: "2adae1a09b8fb3c6acd437a7d0d73889f7d21a7fdaf6e6f937564c39d1700ba8"
         ),
         .binaryTarget(
           name: "FlutterPluginRegistrant",
-          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/0.0.1/FlutterPluginRegistrant.xcframework.zip",
-          checksum: "07d1ae014fb48eeed9d99fa4a940826598a8be8741cf11717795e0a80faa11bf"
+          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.1/FlutterPluginRegistrant.xcframework.zip",
+          checksum: "eafbb6c6f4080ec8225d4386e3efafeb796c361a1a76eaa10f472ea13c067a34"
         ),
 //        .target(
 //            name: "SociomileSDK",
 //            dependencies: []),
-        .testTarget(
-            name: "SociomileSDKTests",
-            dependencies: ["SociomileSDK"]),
+//        .testTarget(
+//            name: "SociomileSDKTests",
+//            dependencies: ["SociomileSDK"]),
     ]
 )

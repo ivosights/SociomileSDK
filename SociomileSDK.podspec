@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "SociomileSDK"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.1-SANDBOX"
   spec.summary      = "SociomileSDK #{spec.version.to_s}"
   spec.description  = <<-DESC
 'Sociomile SDK is a conversational experience that provide customer support such as messaging to your platforms. Sociomile SDK are made of hybrid programming language Flutter, that can be used to native Android (Java, Kotlin) and iOS (Objective C, Swift) and of course Flutter'

@@ -77,7 +77,8 @@
             "mangledName": "$s12SociomileSDK19FlutterDependenciesC17sociomileActivityyyF",
             "moduleName": "SociomileSDK",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           }
@@ -87,7 +88,8 @@
         "mangledName": "$s12SociomileSDK19FlutterDependenciesC",
         "moduleName": "SociomileSDK",
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "RawDocComment"
         ],
         "conformances": [
           {
@@ -146,7 +148,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(bgColorSender:bgColorOwner:colorThemeDefault:colorBtnSend:colorIconDefault:lblColorMsgSender:lblColorMsgOwner:lblColorThemeDefault:fontFromNative:clientKey:clientId:userId:userName:)",
+            "printedName": "init(bgColorSender:bgColorReceiver:colorThemeDefault:colorBtnSend:colorIconDefault:lblColorMsgSender:lblColorMsgReceiver:lblColorThemeDefault:fontFromNative:colorConnectivity:lblColorConnectivity:bgScreen:bgTextContainer:bgAppbar:colorAppbar:lblColorMsgHeader:lblColorDateMsg:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -292,66 +294,131 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.String?",
+                "printedName": "Swift.Int?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
                   }
                 ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               },
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.String?",
+                "printedName": "Swift.Int?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
                   }
                 ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               },
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.String?",
+                "printedName": "Swift.Int?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
                   }
                 ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               },
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.String?",
+                "printedName": "Swift.Int?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
                   }
                 ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:12SociomileSDK0A0C13bgColorSender0cD5Owner17colorThemeDefault0G7BtnSend0g4IconI003lbld3MsgE00mdnF00mdhI014fontFromNative9clientKey0R2Id04userT00U4NameACSiSg_A7QSSSgA4Rtcfc",
-            "mangledName": "$s12SociomileSDK0A0C13bgColorSender0cD5Owner17colorThemeDefault0G7BtnSend0g4IconI003lbld3MsgE00mdnF00mdhI014fontFromNative9clientKey0R2Id04userT00U4NameACSiSg_A7QSSSgA4Rtcfc",
+            "usr": "s:12SociomileSDK0A0C13bgColorSender0cD8Receiver17colorThemeDefault0G7BtnSend0g4IconI003lbld3MsgE00mdnF00mdhI014fontFromNative0G12Connectivity0mdR00C6Screen0C13TextContainer0C6Appbar0gV00mdN6Header0md4DateN0ACSiSg_A7USSSgA8Utcfc",
+            "mangledName": "$s12SociomileSDK0A0C13bgColorSender0cD8Receiver17colorThemeDefault0G7BtnSend0g4IconI003lbld3MsgE00mdnF00mdhI014fontFromNative0G12Connectivity0mdR00C6Screen0C13TextContainer0C6Appbar0gV00mdN6Header0md4DateN0ACSiSg_A7USSSgA8Utcfc",
             "moduleName": "SociomileSDK",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "init_kind": "Designated"
           },
@@ -377,7 +444,8 @@
             "mangledName": "$s12SociomileSDK0A0C03runA6Engine17flutterDependencyyAA19FlutterDependenciesC_tF",
             "moduleName": "SociomileSDK",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           }
@@ -387,7 +455,8 @@
         "mangledName": "$s12SociomileSDK0A0C",
         "moduleName": "SociomileSDK",
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "RawDocComment"
         ]
       },
       {
@@ -427,7 +496,8 @@
             "mangledName": "$s12SociomileSDK14SocioDataModelC12notificationyySo12NSDictionaryCF",
             "moduleName": "SociomileSDK",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -453,15 +523,39 @@
             "mangledName": "$s12SociomileSDK14SocioDataModelC8fcmTokenyySSF",
             "moduleName": "SociomileSDK",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           },
           {
             "kind": "Function",
-            "name": "getToken",
-            "printedName": "getToken()",
+            "name": "initialize",
+            "printedName": "initialize(clientKey:clientId:userId:userName:)",
             "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
               {
                 "kind": "TypeNominal",
                 "name": "String",
@@ -470,11 +564,66 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12SociomileSDK14SocioDataModelC8getTokenSSyF",
-            "mangledName": "$s12SociomileSDK14SocioDataModelC8getTokenSSyF",
+            "usr": "s:12SociomileSDK14SocioDataModelC10initialize9clientKey0G2Id04userI00J4NameySS_S3StF",
+            "mangledName": "$s12SociomileSDK14SocioDataModelC10initialize9clientKey0G2Id04userI00J4NameySS_S3StF",
             "moduleName": "SociomileSDK",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setLog",
+            "printedName": "setLog(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SociomileSDK14SocioDataModelC6setLogyySbF",
+            "mangledName": "$s12SociomileSDK14SocioDataModelC6setLogyySbF",
+            "moduleName": "SociomileSDK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setDarkMode",
+            "printedName": "setDarkMode(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SociomileSDK14SocioDataModelC11setDarkModeyySbF",
+            "mangledName": "$s12SociomileSDK14SocioDataModelC11setDarkModeyySbF",
+            "moduleName": "SociomileSDK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -620,72 +769,142 @@
     {
       "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/SociomileActivity.swift",
       "kind": "StringLiteral",
-      "offset": 272,
+      "offset": 346,
       "length": 26,
       "value": "\"sociomile_flutter_engine\""
     },
     {
       "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
       "kind": "IntegerLiteral",
-      "offset": 582,
+      "offset": 2113,
       "length": 10,
-      "value": "0xFFBDB2CF"
+      "value": "0xFF894991"
     },
     {
       "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
       "kind": "IntegerLiteral",
-      "offset": 615,
-      "length": 10,
-      "value": "0xFF873891"
-    },
-    {
-      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
-      "kind": "IntegerLiteral",
-      "offset": 653,
-      "length": 10,
-      "value": "0xFF0C3DE0"
-    },
-    {
-      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
-      "kind": "IntegerLiteral",
-      "offset": 686,
+      "offset": 2149,
       "length": 10,
       "value": "0xFF873891"
     },
     {
       "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
       "kind": "IntegerLiteral",
-      "offset": 723,
+      "offset": 2187,
       "length": 10,
       "value": "0xFF873891"
     },
     {
       "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
       "kind": "IntegerLiteral",
-      "offset": 761,
+      "offset": 2220,
       "length": 10,
-      "value": "0xFF000000"
+      "value": "0xFF873891"
     },
     {
       "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
       "kind": "IntegerLiteral",
-      "offset": 798,
+      "offset": 2257,
+      "length": 10,
+      "value": "0xFF873891"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2295,
       "length": 10,
       "value": "0xFFFFFFFF"
     },
     {
       "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
       "kind": "IntegerLiteral",
-      "offset": 839,
+      "offset": 2335,
+      "length": 10,
+      "value": "0xFFFFFFFF"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2376,
       "length": 10,
       "value": "0xFFFFFFFF"
     },
     {
       "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
       "kind": "StringLiteral",
-      "offset": 877,
+      "offset": 2414,
       "length": 6,
       "value": "\"Lato\""
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2448,
+      "length": 10,
+      "value": "0xFFC03232"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2489,
+      "length": 10,
+      "value": "0xFFFFFFFF"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2518,
+      "length": 10,
+      "value": "0xFFFFFFFF"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2554,
+      "length": 10,
+      "value": "0xFFFBFBFB"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2583,
+      "length": 10,
+      "value": "0xFFFFFFFF"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2615,
+      "length": 10,
+      "value": "0xFF000000"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2653,
+      "length": 10,
+      "value": "0xFF767676"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/Sociomile.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2689,
+      "length": 10,
+      "value": "0xFFB5B8B5"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/SocioDataModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 502,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/SocioDataModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 557,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/NotificationEventChannel.swift",

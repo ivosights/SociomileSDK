@@ -18,14 +18,16 @@ public class FlutterDependencies : Foundation.ObservableObject {
   @objc deinit
 }
 public class Sociomile {
-  public init(bgColorSender: Swift.Int? = 0xFFBDB2CF, bgColorOwner: Swift.Int? = 0xFF873891, colorThemeDefault: Swift.Int? = 0xFF0C3DE0, colorBtnSend: Swift.Int? = 0xFF873891, colorIconDefault: Swift.Int? = 0xFF873891, lblColorMsgSender: Swift.Int? = 0xFF000000, lblColorMsgOwner: Swift.Int? = 0xFFFFFFFF, lblColorThemeDefault: Swift.Int? = 0xFFFFFFFF, fontFromNative: Swift.String? = "Lato", clientKey: Swift.String?, clientId: Swift.String?, userId: Swift.String?, userName: Swift.String?)
+  public init(bgColorSender: Swift.Int? = 0xFF894991, bgColorReceiver: Swift.Int? = 0xFF873891, colorThemeDefault: Swift.Int? = 0xFF873891, colorBtnSend: Swift.Int? = 0xFF873891, colorIconDefault: Swift.Int? = 0xFF873891, lblColorMsgSender: Swift.Int? = 0xFFFFFFFF, lblColorMsgReceiver: Swift.Int? = 0xFFFFFFFF, lblColorThemeDefault: Swift.Int? = 0xFFFFFFFF, fontFromNative: Swift.String? = "Lato", colorConnectivity: Swift.Int? = 0xFFC03232, lblColorConnectivity: Swift.Int? = 0xFFFFFFFF, bgScreen: Swift.Int? = 0xFFFFFFFF, bgTextContainer: Swift.Int? = 0xFFFBFBFB, bgAppbar: Swift.Int? = 0xFFFFFFFF, colorAppbar: Swift.Int? = 0xFF000000, lblColorMsgHeader: Swift.Int? = 0xFF767676, lblColorDateMsg: Swift.Int? = 0xFFB5B8B5)
   public func runSociomileEngine(flutterDependency: SociomileSDK.FlutterDependencies)
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class SocioDataModel : Foundation.ObservableObject {
   public func notification(_ data: Foundation.NSDictionary)
   public func fcmToken(_ data: Swift.String)
-  public func getToken() -> Swift.String
+  public func initialize(clientKey: Swift.String, clientId: Swift.String, userId: Swift.String, userName: Swift.String)
+  public func setLog(_ logger: Swift.Bool)
+  public func setDarkMode(_ darkMode: Swift.Bool)
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit
 }
