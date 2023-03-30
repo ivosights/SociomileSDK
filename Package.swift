@@ -23,24 +23,24 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
           name: "SociomileSDK",
-          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.1/SociomileSDK.xcframework.zip",
-          checksum: "77815835832a67c7340c976f75d720207cba2243df97bbb88e8de265f406e046"
+          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.2/SociomileSDK.xcframework.zip",
+          checksum: "89d7aa26e90ea100f931e21c27f3425351bc662e9b42bd1e465b66b98a5feffa"
 //          path: "./Sources/SociomileSDK.xcframework"
         ),
         .binaryTarget(
           name: "App",
-          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.1/App.xcframework.zip",
-          checksum: "a5c41d1945a07996fbd1a6bb2e42dcfd35f074ce722eabe2d4ec1f3a7c7213db"
+          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.2/App.xcframework.zip",
+          checksum: "7b27a575ae9c2738e370891f30df0a9d8fd1d15930892ca8cf7362fb1f1d4097"
         ),
         .binaryTarget(
           name: "Flutter",
-          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.1/Flutter.xcframework.zip",
-          checksum: "2adae1a09b8fb3c6acd437a7d0d73889f7d21a7fdaf6e6f937564c39d1700ba8"
+          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.2/Flutter.xcframework.zip",
+          checksum: "3c4e90e3c656a29f1bb01814fdc4be973f5b930d9a6dcbadf189b080674318eb"
         ),
         .binaryTarget(
           name: "FlutterPluginRegistrant",
-          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.1/FlutterPluginRegistrant.xcframework.zip",
-          checksum: "eafbb6c6f4080ec8225d4386e3efafeb796c361a1a76eaa10f472ea13c067a34"
+          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.2/FlutterPluginRegistrant.xcframework.zip",
+          checksum: "44668d9c0f3f34dc0de0f73ff291aceb1355bd5fa1b1948cd3afa68cd3e13464"
         ),
 //        .target(
 //            name: "SociomileSDK",
