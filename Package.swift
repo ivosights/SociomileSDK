@@ -12,7 +12,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "SociomileSDK",
-            targets: ["SociomileSDK", "App", "Flutter", "FlutterPluginRegistrant"]),
+            targets: ["SociomileSDK", "App", "Flutter"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -37,11 +37,11 @@ let package = Package(
           url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.2/Flutter.xcframework.zip",
           checksum: "3c4e90e3c656a29f1bb01814fdc4be973f5b930d9a6dcbadf189b080674318eb"
         ),
-        .binaryTarget(
-          name: "FlutterPluginRegistrant",
-          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.2/FlutterPluginRegistrant.xcframework.zip",
-          checksum: "44668d9c0f3f34dc0de0f73ff291aceb1355bd5fa1b1948cd3afa68cd3e13464"
-        ),
+//        .binaryTarget(
+//          name: "FlutterPluginRegistrant",
+//          url: "https://sociomile-sdk.s3.ap-southeast-1.amazonaws.com/sociomile-ios-sdk/sandbox/0.0.2/FlutterPluginRegistrant.xcframework.zip",
+//          checksum: "44668d9c0f3f34dc0de0f73ff291aceb1355bd5fa1b1948cd3afa68cd3e13464"
+//        ),
 //        .target(
 //            name: "SociomileSDK",
 //            dependencies: []),
