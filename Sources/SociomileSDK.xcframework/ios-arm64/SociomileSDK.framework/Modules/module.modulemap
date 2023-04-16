@@ -1,0 +1,11 @@
+framework module SociomileSDK {
+  umbrella header "SociomileSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module SociomileSDK.Swift {
+  header "SociomileSDK-Swift.h"
+  requires objc
+}

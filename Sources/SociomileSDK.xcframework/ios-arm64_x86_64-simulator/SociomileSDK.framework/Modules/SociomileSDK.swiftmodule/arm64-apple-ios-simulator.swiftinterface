@@ -1,0 +1,38 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SociomileSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Combine
+import Combine/*.Combine*/
+import Flutter
+import FlutterPluginRegistrant
+import Foundation
+@_exported import SociomileSDK
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+public class FlutterDependencies : Foundation.ObservableObject {
+  public init()
+  public func sociomileActivity()
+  public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
+  @objc deinit
+}
+public class Sociomile {
+  public init(bgColorSender: Swift.Int? = 0xFFFFFFFF, bgColorReceiver: Swift.Int? = 0xFF57B77D, colorThemeDefault: Swift.Int? = 0xFF57B77D, colorBackBtn: Swift.Int? = 0xFF2B2DE2, colorIconDefault: Swift.Int? = 0xFF6E8597, lblColorMsgSender: Swift.Int? = 0xFF000000, lblColorMsgReceiver: Swift.Int? = 0xFFFFFFFF, lblColorThemeDefault: Swift.Int? = 0xFFC0BEBE, fontFromNative: Swift.String? = "Inter", colorConnectivity: Swift.Int? = 0xFFC03232, lblColorConnectivity: Swift.Int? = 0xFFFFFFFF, bgScreen: Swift.Int? = 0xFFF5F5F5, bgTextContainer: Swift.Int? = 0xFFFBFBFB, bgAppbar: Swift.Int? = 0xFFFFFFFF, colorAppbar: Swift.Int? = 0xFF000000, lblColorMsgHeader: Swift.Int? = 0xFF767676, lblColorDateMsg: Swift.Int? = 0xFFB5B8B5)
+  public func runSociomileEngine(flutterDependency: SociomileSDK.FlutterDependencies)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class SocioDataModel : Foundation.ObservableObject {
+  public func notification(_ data: Foundation.NSDictionary)
+  public func fcmToken(_ data: Swift.String)
+  public func initialize(clientKey: Swift.String, clientId: Swift.String, userId: Swift.String, userName: Swift.String)
+  public func setLog(_ logger: Swift.Bool)
+  public func setDarkMode(_ darkMode: Swift.Bool)
+  public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
+  @objc deinit
+}
+extension SociomileSDK.SocioDataModel {
+  public static let shared: SociomileSDK.SocioDataModel
+  public static func mockModel() -> SociomileSDK.SocioDataModel
+}
