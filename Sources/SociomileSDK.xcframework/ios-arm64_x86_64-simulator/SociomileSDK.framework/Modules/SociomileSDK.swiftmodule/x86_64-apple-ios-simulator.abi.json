@@ -470,6 +470,13 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "SociomileSDK"
+      },
+      {
         "kind": "TypeDecl",
         "name": "SocioDataModel",
         "printedName": "SocioDataModel",
@@ -1119,35 +1126,35 @@
     {
       "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/SocioDataModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 502,
+      "offset": 517,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/SocioDataModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 557,
+      "offset": 572,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/SocioDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 746,
+      "offset": 761,
       "length": 9,
       "value": "\"NOTIF: \""
     },
     {
       "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/SocioDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 967,
+      "offset": 982,
       "length": 9,
       "value": "\"TOKEN: \""
     },
     {
       "filePath": "\/Users\/aprikot\/Projects\/sociomile-ios\/SociomileSDK\/SociomileSDK\/SocioDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 994,
+      "offset": 1009,
       "length": 2,
       "value": "\"\""
     },

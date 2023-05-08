@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mg4dXdde1WbJcXwHv8U+Z9L6Ki4=
+		5FBDLWN5hjBiaQrV9bHKIAR2CLo=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		i1rjVaryIvfeChnPFyvip4rt29s=
+		QaFrDittNJCVQ+eapIHVazr9IU4=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		9ItQx0Sdsd0iYnyI8iiE24ssy+A=
+		UsDY1fP/7/VqihSQc7gzWhHyR+g=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9ItQx0Sdsd0iYnyI8iiE24ssy+A=
+		UsDY1fP/7/VqihSQc7gzWhHyR+g=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fi6fmTF+3zZrRyAGxpJW5OhLC0E=
+		FL8GOJPSFdN4iiTdqv+h7tts6Xg=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		i1rjVaryIvfeChnPFyvip4rt29s=
+		QaFrDittNJCVQ+eapIHVazr9IU4=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		EpLICT8yZQSDkXaeLJwgb/5tej4=
+		qAOF1LMHZYs+MzcaSmfEzkAezeQ=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		EpLICT8yZQSDkXaeLJwgb/5tej4=
+		qAOF1LMHZYs+MzcaSmfEzkAezeQ=
 		</data>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rmEIV44kDCyGydqCOEAoz3iQh8U=
+		OJVd+TaDz+fu9XDUbC6mPeaoIRI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LL+nmDPnuW1ogG+ZKUd0ix+33Z5w0d1ifxWmVe+D+1Y=
+			BY6AG7lg4+cTZmEzs3sSUczrCGzVqyfhDVR3g54AjEw=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XqrYfDADIySXpws318Q/aLxOtCpsp6ZA10uVh8oZNDU=
+			hg4J0i1kKUQcGgQD3MvJ5SNkoDZ91JMXhQfkGKUgLVg=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XqrYfDADIySXpws318Q/aLxOtCpsp6ZA10uVh8oZNDU=
+			hg4J0i1kKUQcGgQD3MvJ5SNkoDZ91JMXhQfkGKUgLVg=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c5j+2cmJW8c8sFvX0PCZQyN1GAx8JIrjlYTDiG1tLlQ=
+			MX0Atu+jq/O0nTM0KxS+mGJG2lr7tCCUMFJQW+1e59Q=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LL+nmDPnuW1ogG+ZKUd0ix+33Z5w0d1ifxWmVe+D+1Y=
+			BY6AG7lg4+cTZmEzs3sSUczrCGzVqyfhDVR3g54AjEw=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GdXUBwxPYV5wMG7XPuotOWdBEVGEo//wj1/59a9JRCQ=
+			NJE53nBJIXo8F945Gf5m6eV2PStbXkrNG2k8bIsmGwo=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GdXUBwxPYV5wMG7XPuotOWdBEVGEo//wj1/59a9JRCQ=
+			NJE53nBJIXo8F945Gf5m6eV2PStbXkrNG2k8bIsmGwo=
 			</data>
 		</dict>
 		<key>Modules/SociomileSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MbCmLQXvVilcj0PMnGQvlApHNqXWwJRiKHV5Fy110VA=
+			SuZmaaC+/jsa/wSNL9ydZ/EfSPG2q8CSNGZXq/sNCcM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
